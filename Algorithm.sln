@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm", "Algorithm\Algorithm.csproj", "{D5FDA395-A295-4D53-8948-9D3E32762860}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{EE979416-6518-43A3-AFB5-F1002BBF01A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort", "Sort\Sort.csproj", "{11EE133A-C02F-4220-9027-623A0226B281}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{8B654F82-C9DC-4D12-B6D7-258801270272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{9A00C81A-0EBF-4DD5-8FA0-D64D526D0BD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aditya_Bhargava", "Aditya_Bhargava", "{1A4346CA-96D1-4611-8489-EA0FE5A11870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{B76E5BA9-5404-4614-B179-212551CD6122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FDA395-A295-4D53-8948-9D3E32762860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FDA395-A295-4D53-8948-9D3E32762860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FDA395-A295-4D53-8948-9D3E32762860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FDA395-A295-4D53-8948-9D3E32762860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE979416-6518-43A3-AFB5-F1002BBF01A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE979416-6518-43A3-AFB5-F1002BBF01A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE979416-6518-43A3-AFB5-F1002BBF01A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE979416-6518-43A3-AFB5-F1002BBF01A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11EE133A-C02F-4220-9027-623A0226B281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EE133A-C02F-4220-9027-623A0226B281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EE133A-C02F-4220-9027-623A0226B281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EE133A-C02F-4220-9027-623A0226B281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B654F82-C9DC-4D12-B6D7-258801270272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B654F82-C9DC-4D12-B6D7-258801270272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B654F82-C9DC-4D12-B6D7-258801270272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B654F82-C9DC-4D12-B6D7-258801270272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A00C81A-0EBF-4DD5-8FA0-D64D526D0BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A00C81A-0EBF-4DD5-8FA0-D64D526D0BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A00C81A-0EBF-4DD5-8FA0-D64D526D0BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A00C81A-0EBF-4DD5-8FA0-D64D526D0BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76E5BA9-5404-4614-B179-212551CD6122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76E5BA9-5404-4614-B179-212551CD6122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76E5BA9-5404-4614-B179-212551CD6122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76E5BA9-5404-4614-B179-212551CD6122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE979416-6518-43A3-AFB5-F1002BBF01A8} = {1A4346CA-96D1-4611-8489-EA0FE5A11870}
+		{11EE133A-C02F-4220-9027-623A0226B281} = {1A4346CA-96D1-4611-8489-EA0FE5A11870}
+		{8B654F82-C9DC-4D12-B6D7-258801270272} = {1A4346CA-96D1-4611-8489-EA0FE5A11870}
+		{9A00C81A-0EBF-4DD5-8FA0-D64D526D0BD7} = {1A4346CA-96D1-4611-8489-EA0FE5A11870}
+		{B76E5BA9-5404-4614-B179-212551CD6122} = {1A4346CA-96D1-4611-8489-EA0FE5A11870}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9103BB60-ADE0-4519-940E-BF6E3903340C}
+	EndGlobalSection
+EndGlobal
